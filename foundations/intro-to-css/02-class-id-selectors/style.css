@@ -1,4 +1,20 @@
 .alert-text {
-    background-color: rgb(206, 126, 140);
+    background-color: rgb(226, 164, 175);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.severe-alert {
     font-size: 24px;
 }
+
+#title {
+    color: blue;
+    font-size: 36px;
+}
+
+#title1 {
+    background-color: rgb(156, 227, 156);
+    font-size: 24px;
+    font-weight: bold;
+}
+
